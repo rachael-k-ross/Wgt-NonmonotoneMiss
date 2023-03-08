@@ -2,7 +2,7 @@
 *********************************************;
 *
 * SAS code for simple illustrative example
-* from Ross et al. 
+* from *** et al. 
 * Accounting for Nonmonotone Missing Data using Inverse Probability Weights
 *
 *********************************************;
